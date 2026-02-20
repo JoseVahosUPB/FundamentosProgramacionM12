@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\bin\Debug\_3.CondicionalesDoblesCompuestos.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\bin\Debug\_3.CondicionalesDoblesCompuestos.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\bin\Debug\_3.CondicionalesDoblesCompuestos.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\obj\Debug\3. CondicionalesDoblesCompuestos.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\obj\Debug\3. CondicionalesDoblesCompuestos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\obj\Debug\_3.CondicionalesDoblesCompuestos.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\3. CondicionalesDoblesCompuestos\3. CondicionalesDoblesCompuestos\obj\Debug\_3.CondicionalesDoblesCompuestos.pdb

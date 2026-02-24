@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\bin\Debug\_4.PositivoNegativo.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\bin\Debug\_4.PositivoNegativo.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\bin\Debug\_4.PositivoNegativo.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\obj\Debug\4. PositivoNegativo.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\obj\Debug\4. PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\obj\Debug\_4.PositivoNegativo.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\4. PositivoNegativo\4. PositivoNegativo\obj\Debug\_4.PositivoNegativo.pdb

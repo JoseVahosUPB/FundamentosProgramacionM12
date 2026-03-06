@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.pdb

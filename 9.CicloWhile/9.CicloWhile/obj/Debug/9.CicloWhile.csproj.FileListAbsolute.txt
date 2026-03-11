@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.pdb

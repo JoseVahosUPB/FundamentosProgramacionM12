@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\bin\Debug\12.ContadorPares.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\bin\Debug\12.ContadorPares.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\bin\Debug\12.ContadorPares.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\obj\Debug\12.ContadorPares.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\obj\Debug\12.ContadorPares.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\obj\Debug\12.ContadorPares.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\12.ContadorPares\12.ContadorPares\obj\Debug\12.ContadorPares.pdb

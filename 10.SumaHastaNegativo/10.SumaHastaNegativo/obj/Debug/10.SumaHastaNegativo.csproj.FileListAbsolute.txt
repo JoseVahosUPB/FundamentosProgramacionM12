@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\bin\Debug\10.SumaHastaNegativo.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\bin\Debug\10.SumaHastaNegativo.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\bin\Debug\10.SumaHastaNegativo.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\obj\Debug\10.SumaHastaNegativo.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\obj\Debug\10.SumaHastaNegativo.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\obj\Debug\10.SumaHastaNegativo.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\10.SumaHastaNegativo\10.SumaHastaNegativo\obj\Debug\10.SumaHastaNegativo.pdb

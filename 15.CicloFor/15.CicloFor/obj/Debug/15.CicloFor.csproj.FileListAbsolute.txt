@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\bin\Debug\15.CicloFor.exe.config
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\bin\Debug\15.CicloFor.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\bin\Debug\15.CicloFor.pdb
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.exe
+C:\Users\jorge\Documents\UPB\2026-1\FundamentosProgramacionM12\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.pdb

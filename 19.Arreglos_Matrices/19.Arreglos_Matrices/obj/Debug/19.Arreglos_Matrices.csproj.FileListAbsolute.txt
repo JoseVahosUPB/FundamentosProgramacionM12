@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\bin\Debug\19.Arreglos_Matrices.exe.config
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\bin\Debug\19.Arreglos_Matrices.exe
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\bin\Debug\19.Arreglos_Matrices.pdb
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\obj\Debug\19.Arreglos_Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\obj\Debug\19.Arreglos_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\obj\Debug\19.Arreglos_Matrices.exe
+C:\Users\B09S104est\source\repos\19.Arreglos_Matrices\19.Arreglos_Matrices\obj\Debug\19.Arreglos_Matrices.pdb

@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\bin\Debug\Parcial3_Arreglos.exe.config
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\bin\Debug\Parcial3_Arreglos.exe
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\bin\Debug\Parcial3_Arreglos.pdb
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\obj\Debug\Parcial3_Arreglos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\obj\Debug\Parcial3_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\obj\Debug\Parcial3_Arreglos.exe
+C:\Users\B09S104est\source\repos\Parcial3_Arreglos\Parcial3_Arreglos\obj\Debug\Parcial3_Arreglos.pdb
